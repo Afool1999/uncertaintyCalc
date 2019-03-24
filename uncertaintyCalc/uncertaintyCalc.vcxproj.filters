@@ -15,16 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="uncertaintyCalc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="uncertaintyA.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="uncertaintyB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="consts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="uncertaintyCalc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
