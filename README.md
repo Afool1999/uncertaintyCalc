@@ -1,8 +1,7 @@
 # uncertaintyCalc
-to calculate uncertainty in physical experiments
+This program is aiming to calculate uncertainty in physical experiments
 
-```
-./uncertainty.exe
--h
-```
-for more information
+use `./uncertainty.exe` to launch
+use `./uncertainty.exe -f yourfile` to read data from "yourfile"
+
+for more information use `-h`
